@@ -11,4 +11,4 @@ npm run dev
 Visit http://localhost:5000/docs
 
 ## REST Client
-The file test.http can be used to make requests if you are using the VSCode Rest Client extension
+The file test.http can be used to make requests if you are using the [VSCode extension REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
